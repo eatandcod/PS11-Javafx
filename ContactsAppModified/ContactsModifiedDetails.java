@@ -1,4 +1,4 @@
-lic class ContactsModifiedDetails {
+public class ContactsModifiedDetails {
     private String name;
     private String lastName;
     private String email;
